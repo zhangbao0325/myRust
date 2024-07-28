@@ -1,0 +1,16 @@
+[package]
+name = "traits"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "write"
+path = "src/write.rs"
+
+[[bin]]
+name = "parse"
+path = "src/parse.rs"
+
+
+[dependencies]
+regex = "1.5"

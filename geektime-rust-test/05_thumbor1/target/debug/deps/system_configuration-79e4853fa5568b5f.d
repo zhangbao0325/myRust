@@ -1,0 +1,9 @@
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/system_configuration-79e4853fa5568b5f.rmeta: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/system_configuration-79e4853fa5568b5f.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs:

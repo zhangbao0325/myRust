@@ -1,0 +1,11 @@
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/socket2-9876821c79a72768.rmeta: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/libsocket2-9876821c79a72768.rlib: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/socket2-9876821c79a72768.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs:

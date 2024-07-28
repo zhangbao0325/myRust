@@ -1,0 +1,11 @@
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/rand_core-f6ef583d8bff0afe.rmeta: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/librand_core-f6ef583d8bff0afe.rlib: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/rand_core-f6ef583d8bff0afe.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs:

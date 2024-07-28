@@ -1,0 +1,10 @@
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libidna-b022d2a552804740.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/punycode.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libidna-b022d2a552804740.rlib: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/punycode.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/idna-b022d2a552804740.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/punycode.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/punycode.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/idna-0.4.0/src/uts46_mapping_table.rs:

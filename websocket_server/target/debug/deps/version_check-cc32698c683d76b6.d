@@ -1,0 +1,10 @@
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libversion_check-cc32698c683d76b6.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/version.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/channel.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/date.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libversion_check-cc32698c683d76b6.rlib: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/version.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/channel.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/date.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/version_check-cc32698c683d76b6.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/version.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/channel.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/date.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/version.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/channel.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/version_check-0.9.4/src/date.rs:

@@ -1,0 +1,8 @@
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/libdeno_proc_macro_rules_macros-5e3ed0dfb03d06e9.dylib: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/ast.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/expand.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/parse.rs
+
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/deno_proc_macro_rules_macros-5e3ed0dfb03d06e9.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/ast.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/expand.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/parse.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/ast.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/expand.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/deno-proc-macro-rules-macros-0.3.2/src/parse.rs:

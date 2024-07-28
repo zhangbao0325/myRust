@@ -1,0 +1,1 @@
+axum::handler::OnMethod<fn(axum::extract::Path<Params>, Extension<Arc<tokio::sync::Mutex<LruCache<u64, bytes::Bytes>>>>) -> impl Future<Output = ()> {generate}, axum::body::Body, _, EmptyRouter>

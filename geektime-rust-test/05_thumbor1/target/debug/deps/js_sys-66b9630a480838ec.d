@@ -1,0 +1,5 @@
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/js_sys-66b9630a480838ec.rmeta: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/js-sys-0.3.55/src/lib.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/js_sys-66b9630a480838ec.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/js-sys-0.3.55/src/lib.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/js-sys-0.3.55/src/lib.rs:

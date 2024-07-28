@@ -1,0 +1,9 @@
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/libserde_bytes-829f1f82ce76df3b.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytes.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/de.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/ser.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytebuf.rs
+
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/serde_bytes-829f1f82ce76df3b.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytes.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/de.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/ser.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytebuf.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytes.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/de.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/ser.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/serde_bytes-0.11.12/src/bytebuf.rs:

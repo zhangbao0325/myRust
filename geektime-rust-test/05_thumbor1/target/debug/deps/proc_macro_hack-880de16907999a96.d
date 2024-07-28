@@ -1,0 +1,9 @@
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/libproc_macro_hack-880de16907999a96.dylib: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/quote.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/error.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/iter.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/parse.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/proc_macro_hack-880de16907999a96.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/quote.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/error.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/iter.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/parse.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/lib.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/quote.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/error.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/iter.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-hack-0.5.20+deprecated/src/parse.rs:

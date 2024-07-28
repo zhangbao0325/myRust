@@ -1,0 +1,3 @@
+JsRuntime for snapshot prepared, took 16.188929ms (/Users/mochen/Documents/mytest/rust/myexamples/snapshots/main.bin)
+Snapshot size: 459260, took 10.740661ms (/Users/mochen/Documents/mytest/rust/myexamples/snapshots/main.bin)
+Snapshot written, took: 485.381µs (/Users/mochen/Documents/mytest/rust/myexamples/snapshots/main.bin)

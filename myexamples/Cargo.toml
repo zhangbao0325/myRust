@@ -1,0 +1,32 @@
+[package]
+name = "myexamples"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "basic"
+path = "basic.rs"
+
+
+[[bin]]
+name = "fetch"
+path = "fetch.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#deno_core = "0.215.0"
+deno_core = { version = "0.197"}
+tokio = "1.32.0"
+zstd = "0.11"
+serde = { version = "1", features = ["derive"] }
+reqwest = "0.11"
+
+[build-dependencies]
+#deno_core = "0.215.0"
+deno_core = { version = "0.197"}
+zstd = "0.11"
+
+
+[workspace]

@@ -1,0 +1,6 @@
+[http]
+proxy="socks5h://127.0.0.1:13659"
+
+
+[https]
+proxy="socks5h://127.0.0.1:13659"

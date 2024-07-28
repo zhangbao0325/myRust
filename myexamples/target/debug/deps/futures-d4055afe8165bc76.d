@@ -1,0 +1,5 @@
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/libfutures-d4055afe8165bc76.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-0.3.28/src/lib.rs
+
+/Users/mochen/Documents/mytest/rust/myexamples/target/debug/deps/futures-d4055afe8165bc76.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-0.3.28/src/lib.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-0.3.28/src/lib.rs:

@@ -1,0 +1,10 @@
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libthiserror-801b319194e21f9c.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/aserror.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/display.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/provide.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/libthiserror-801b319194e21f9c.rlib: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/aserror.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/display.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/provide.rs
+
+/Users/mochen/Documents/mytest/rust/websocket_server/target/debug/deps/thiserror-801b319194e21f9c.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/aserror.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/display.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/provide.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/aserror.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/display.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thiserror-1.0.50/src/provide.rs:

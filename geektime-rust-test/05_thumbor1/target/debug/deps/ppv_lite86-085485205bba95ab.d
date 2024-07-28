@@ -1,0 +1,11 @@
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/ppv_lite86-085485205bba95ab.rmeta: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/libppv_lite86-085485205bba95ab.rlib: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/mochen/Documents/mytest/rust/test/05_thumbor/target/debug/deps/ppv_lite86-085485205bba95ab.d: /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs:
+/Users/mochen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs:

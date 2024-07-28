@@ -1,0 +1,10 @@
+/Users/mochen/Documents/mytest/rust/future/target/debug/deps/liblock_api-7ca01e744f72aaaf.rmeta: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/mutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/remutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/rwlock.rs
+
+/Users/mochen/Documents/mytest/rust/future/target/debug/deps/liblock_api-7ca01e744f72aaaf.rlib: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/mutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/remutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/rwlock.rs
+
+/Users/mochen/Documents/mytest/rust/future/target/debug/deps/lock_api-7ca01e744f72aaaf.d: /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/lib.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/mutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/remutex.rs /Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/rwlock.rs
+
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/lib.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/mutex.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/remutex.rs:
+/Users/mochen/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/lock_api-0.4.11/src/rwlock.rs:
