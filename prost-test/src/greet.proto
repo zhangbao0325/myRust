@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package greet;
+
+message HelloRequest {
+  string name = 1;
+  string age = 2;
+}
+
+message HelloReply {
+  string message = 1;
+}

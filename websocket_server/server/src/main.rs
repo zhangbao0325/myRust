@@ -11,7 +11,6 @@ use futures::{
 use tokio::sync::broadcast;
 // use tokio::sync::mpsc;
 use tokio_tungstenite::tungstenite::Message;
-edgve
 type PeerMap = Arc<Mutex<HashMap<SocketAddr, UnboundedSender<Message>>>>;
 
 const SERVER_ADDR: &str = "127.0.0.1:8080";
@@ -83,6 +82,6 @@ async fn handle_connection(
         eprintln!("广播消息时发生错误: {:?}", err);
 
         peers.lock().unwrap().remove(&peer_addr);
-        println!("{}断开了连接",peer_addr);
+        println!("{}断开了连接", peer_addr);
     };
 }
