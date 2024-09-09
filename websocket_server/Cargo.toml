@@ -3,4 +3,13 @@
 
 
 [workspace]
-members = ["client", "server"]
+members = ["client", "server", "simple_server"]
+
+
+[workspace.dependencies]
+tokio = { version = "1.36.0", features = ["full"] }
+tokio-tungstenite = { version = "0.23.1"}
+log = "0.4.17"
+futures-util = { version = "0.3.28", default-features = false, features = ["sink", "std"] }
+env_logger = "0.10.0"
+futures-channel = "0.3.28"
