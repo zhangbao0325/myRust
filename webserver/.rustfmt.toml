@@ -1,0 +1,40 @@
+# .rustfmt.toml
+
+# 代码行的最大长度
+max_width = 100
+
+# 是否使用缩进的空格数
+tab_spaces = 4
+
+# # 是否使用缩进
+# use_small_heuristics = "Max"
+
+# # 结构体字段的对齐方式
+# struct_field_align_threshold = 4
+
+# # 对于长行的换行策略
+# chain_one_line = true
+
+# # 在块中是否使用空行
+# empty_item_line = true
+
+# # 是否在函数参数之间添加空行
+# fn_args_layout = "Block"
+
+# # 对于 enum 的变体，是否使用单行
+# enum_variant_layout = "Block"
+
+# # 是否在方法链中添加空行
+# chain_indent = "Block"
+
+# # 注释的格式化
+# format_comments = true
+
+# # 是否在行尾添加空格
+# format_on_save = true
+
+# # 让 `if` 和 `else` 语句在同一行
+# merge_imports = true
+
+# 允许在一行中写多个 `use` 语句
+# use_small_heuristics = "Max"
