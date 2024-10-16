@@ -7,11 +7,11 @@ members = [
     # "05_build_test",
     # "05_thumbor",
     # "09_multi_owner",
-    "13_traits"
+    "13_traits",
     # "38_async"
-    
+
+    "16_data_structure",
+    "17_hash_table",
 ]
 
-exclude = [
-    "05_thumbor",
-]
+exclude = ["05_thumbor"]
