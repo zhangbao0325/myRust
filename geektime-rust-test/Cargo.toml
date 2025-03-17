@@ -8,10 +8,13 @@ members = [
     # "05_thumbor",
     # "09_multi_owner",
     "13_traits",
+
     # "38_async"
 
     "16_data_structure",
     "17_hash_table",
+    "19_closure",
+    "26_kv",
 ]
 
 exclude = ["05_thumbor"]

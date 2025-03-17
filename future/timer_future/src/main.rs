@@ -97,7 +97,6 @@ fn main() {
         TimerFuture::new(Duration::new(2, 0)).await;
         println!("done!");
     });
-
     // drop掉任务，这样执行器就知道任务已经完成，不会再有新的任务进来
     drop(spawner);
 
