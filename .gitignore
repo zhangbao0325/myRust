@@ -1,5 +1,5 @@
 debug/
 release/
-target/
+*/target/*
 .rustc_info.json
-
+grpc_server/target/.rustc_info.json
