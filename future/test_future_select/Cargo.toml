@@ -1,0 +1,9 @@
+[package]
+name = "test_future_select"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+futures.workspace = true
+tokio.workspace = true

@@ -1,1 +1,0 @@
-/Users/mochen/Documents/mytest/rust/basic_test/target/debug/mistakes: /Users/mochen/Documents/mytest/rust/basic_test/build.rs /Users/mochen/Documents/mytest/rust/basic_test/src/c_utils.c /Users/mochen/Documents/mytest/rust/basic_test/src/main.rs
